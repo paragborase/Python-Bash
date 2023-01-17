@@ -45,7 +45,6 @@ def main():
     print("____Process Automation by Parag Borase______")
     print("Application Name:"+argv[0])
 
-    ProcessDisplay(argv[1])
     if(len(argv) != 2):
         print("Error: Invalid Number of argument")
         exit()
