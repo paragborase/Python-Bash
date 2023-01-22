@@ -1,10 +1,11 @@
 #######################################################
-#Script which accept the Directory name from user and create log filein that 
-#directory which contains information of all running process
-#Author : Parag Borase
-#Date: 16/01/2023
-#usage:
-#python ProcessAutomation3.py 
+#Type         :Process Automation
+#Description  :Script which accept the Directory name from user and create log filein that 
+#              directory which contains information of all running process
+#Author       :Parag Borase
+#Date         :16/01/2023
+#usage        :With Command line argument
+#Command      :python ProcessAutomation3.py 
 ########################################################
 from datetime import datetime
 import os
