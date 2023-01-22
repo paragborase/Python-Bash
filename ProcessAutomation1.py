@@ -1,9 +1,10 @@
 #######################################################
-#Automation script which sent mail of all running processes
-#Author : Parag Borase
-#Date: 16/01/2023
-#usage:
-#python ProcessAutomation1.py 
+#Type         :Process Automation
+#Description  :Automation script which sent mail of all running processes
+#Author       :Parag Borase
+#Date         :16/01/2023
+#usage        :With Command line argument
+#Command      :python ProcessAutomation1.py 
 ########################################################
 import ssl
 import time
