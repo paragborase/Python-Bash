@@ -1,10 +1,11 @@
 #######################################################
-#Automation script which sent mail of all running processes and VMS
-#VMS : Virtual Memory Size which is the virtual memory that process is using
-#Author : Parag Borase
-#Date: 16/01/2023
-#usage:
-#python ProcessAutomation2.py 
+#Type         :Process Automation
+#Description  :Automation script which sent mail of all running processes and VMS 
+#              VMS : Virtual Memory Size which is the virtual memory that process is using
+#Author       :Parag Borase
+#Date         :16/01/2023
+#usage        :With Command line argument
+#Command      :python ProcessAutomation2.py 
 ########################################################
 import ssl
 import psutil 
